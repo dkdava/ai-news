@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://dkdava.github.io/ai-news/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dkdava.github.io/ai-news/" rel="alternate" type="text/html" /><updated>2026-05-19T10:53:32+00:00</updated><id>https://dkdava.github.io/ai-news/feed.xml</id><title type="html">Everyday AI News</title><entry><title type="html">19 May 2026</title><link href="https://dkdava.github.io/ai-news/2026/05/19/daily.html" rel="alternate" type="text/html" title="19 May 2026" /><published>2026-05-19T00:00:00+00:00</published><updated>2026-05-19T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/05/19/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/05/19/daily.html"><![CDATA[<p><strong>3 min read · 5 stories</strong> — Musk loses · Claude tightens security</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic adds self-hosted sandboxes to <strong>Claude Managed Agents</strong></li>
+  <li><strong>Elon Musk</strong> appeals $134B <strong>OpenAI</strong> verdict, calls it a “calendar technicality”</li>
+  <li>Jury rules Musk sued <strong>OpenAI</strong> too late, bars claims</li>
+  <li><strong>Tom Steyer</strong> wants to tax California’s ultra-wealthy while regulating AI</li>
+  <li>Solar to dominate by 2035, but AI data centers keep fossil fuels alive</li>
+</ul>
+
+<hr />
+
+<h3 id="-anthropic-adds-self-hosted-sandboxes-and-mcp-tunnels-to-claude-managed-agents">🥇 Anthropic adds self-hosted sandboxes and MCP tunnels to Claude Managed Agents</h3>
+
+<p><strong><a href="https://the-decoder.com/anthropic-adds-self-hosted-sandboxes-and-mcp-tunnels-to-claude-managed-agents/">Anthropic rolled out self-hosted sandboxes and MCP tunnels for Claude Managed Agents</a></strong> — letting enterprises run sensitive workloads in isolated environments without data leaving their infrastructure.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> This could ease enterprise adoption by addressing data sovereignty concerns without sacrificing performance.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Security</code> <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Claude</code></p>
+
+<hr />
+
+<h3 id="elon-musk-appeals-134-billion-openai-loss-calls-verdict-a-calendar-technicality">Elon Musk appeals $134 billion OpenAI loss, calls verdict a “calendar technicality”</h3>
+
+<p><strong><a href="https://the-decoder.com/elon-musk-appeals-134-billion-openai-loss-calls-verdict-a-calendar-technicality/">Elon Musk is appealing the $134B OpenAI verdict</a></strong>, arguing the jury’s decision was based on a procedural oversight rather than the merits of his case.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The appeal keeps the legal battle alive, potentially setting new precedents for AI governance disputes.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Legal</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Musk</code> <code class="language-plaintext highlighter-rouge">Policy</code></p>
+
+<hr />
+
+<h3 id="heres-why-elon-musk-lost-his-suit-against-openai">Here’s why Elon Musk lost his suit against OpenAI</h3>
+
+<p><strong><a href="https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/">A jury unanimously ruled Musk’s OpenAI lawsuit was filed too late</a></strong>, barring his claims under statute-of-limitations rules.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The verdict underscores how timing—not just arguments—can decide high-stakes tech litigation.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Legal</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Musk</code> <code class="language-plaintext highlighter-rouge">Governance</code></p>
+
+<hr />
+
+<h3 id="tom-steyer-wants-to-save-california-from-billionaires-but-also-doesnt-want-them-to-leave">Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave</h3>
+
+<p><strong><a href="https://www.wired.com/story/the-big-interview-podcast-tom-steyer/">Tom Steyer is pushing to tax California’s ultra-wealthy while regulating AI</a></strong>, aiming to balance Silicon Valley’s interests with progressive policy.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> His approach could shape how states navigate AI regulation and wealth inequality.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">California</code> <code class="language-plaintext highlighter-rouge">Wealth-tax</code> <code class="language-plaintext highlighter-rouge">AI-regulation</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — Solar will dominate energy by 2035, but AI data centers keep fossil fuels in the mix. <a href="https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will <strong>Anthropic’s</strong> self-hosted sandboxes become the new enterprise standard for AI security?</li>
+  <li>How will <strong>Musk’s</strong> appeal reshape the narrative around <strong>OpenAI’s</strong> nonprofit origins?</li>
+  <li>Could <strong>California’s</strong> AI policies set a template for other states—or drive tech firms elsewhere?</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 5 stories — Musk loses · Claude tightens security]]></summary></entry><entry><title type="html">18 May 2026</title><link href="https://dkdava.github.io/ai-news/2026/05/18/daily.html" rel="alternate" type="text/html" title="18 May 2026" /><published>2026-05-18T00:00:00+00:00</published><updated>2026-05-18T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/05/18/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/05/18/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Duopoly dominance · Normies code · AI glasses optics</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>AI startup revenue hits $80B, Anthropic and OpenAI take 90%</li>
+  <li>Wired tests if “normies” can actually vibe code with Claude</li>
+  <li>AI-generated art backlash targets Claude’s Monet filter</li>
+  <li>South Korean startup builds thumbnail-sized lenses for AI glasses</li>
+</ul>
+
+<hr />
+
+<h3 id="-ai-startup-revenue-hits-80-billion-but-anthropic-and-openai-take-almost-all-of-it">🥇 AI startup revenue hits $80 billion, but Anthropic and OpenAI take almost all of it</h3>
+
+<p><strong><a href="https://the-decoder.com/ai-startup-revenue-hits-80-billion-but-anthropic-and-openai-take-almost-all-of-it/">The AI startup ecosystem generated $80 billion in revenue last year—yet Anthropic and OpenAI captured nearly 90% of it</a></strong> — leaving hundreds of smaller players fighting for scraps.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The revenue concentration suggests the AI market is already tipping toward a winner-takes-most dynamic, not the open ecosystem many predicted.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">Duopoly</code> <code class="language-plaintext highlighter-rouge">Market-trends</code></p>
+
+<hr />
+
+<h3 id="im-a-normie-can-normies-really-vibe-code">I’m a Normie. Can Normies Really Vibe Code?</h3>
+
+<p><strong><a href="https://www.wired.com/story/normie-vibe-code/">Wired’s non-technical writer teamed up with Claude to build a petty-grievance database</a></strong> — testing whether “vibe coding” lives up to the hype.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If AI can turn casual users into builders, the definition of “developer” may need a rewrite.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Accessibility</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Human-AI-collaboration</code></p>
+
+<hr />
+
+<h3 id="ai-anger-comes-for-claude-monet">AI anger comes for Claude (Monet)</h3>
+
+<p><strong><a href="https://www.therundown.ai/p/ai-anger-comes-for-claude-monet">Backlash grows over AI-generated art filters, this time targeting Claude’s Monet-style output</a></strong> — plus a guide to building your own cloud-based web crawler with Manus.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The art debate is expanding beyond copyright into cultural gatekeeping—who gets to decide what’s “real” art?</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Ethics</code> <code class="language-plaintext highlighter-rouge">Creative-tools</code> <code class="language-plaintext highlighter-rouge">Backlash</code></p>
+
+<hr />
+
+<h3 id="south-koreas-letinar-is-building-optics-behind-ai-glasses">South Korea’s LetinAR is building optics behind AI glasses</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/">A South Korean startup’s thumbnail-sized lens could become the backbone of AI glasses</a></strong> — solving a key hardware bottleneck.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If the optics work at scale, AI glasses might finally shed their “bulky prototype” stigma.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">AR</code> <code class="language-plaintext highlighter-rouge">South-Korea</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will Anthropic and OpenAI’s dominance trigger antitrust scrutiny—or just more copycat startups?</li>
+  <li>Expect more “normie coding” experiments as agents improve, but also more pushback from professional developers.</li>
+  <li>AI glasses hardware is quietly advancing; watch for a major player to snap up LetinAR or a rival.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Duopoly dominance · Normies code · AI glasses optics]]></summary></entry><entry><title type="html">17 May 2026</title><link href="https://dkdava.github.io/ai-news/2026/05/17/daily.html" rel="alternate" type="text/html" title="17 May 2026" /><published>2026-05-17T00:00:00+00:00</published><updated>2026-05-17T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/05/17/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/05/17/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Military AI caution · On-device agents</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Mistral CEO warns France against letting Anthropic’s Mythos scan military code</li>
+  <li>Oppo open-sources Android AI agent that runs entirely on-device</li>
+  <li>New math benchmark exposes AI models solving unsolvable problems</li>
+  <li>Four AI models ran radio stations for six months—results varied wildly</li>
+</ul>
+
+<hr />
+
+<h3 id="-mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases">🥇 Mistral CEO Arthur Mensch warns France against letting Anthropic’s Mythos scan military code bases</h3>
+
+<p><strong><a href="https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/">Mistral CEO Arthur Mensch cautions France against allowing Anthropic’s Mythos model to analyze military code</a></strong> — citing risks of data exposure and loss of control over sensitive systems.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The warning highlights a growing rift in Europe over AI sovereignty and the trade-offs between performance and security.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Security</code> <code class="language-plaintext highlighter-rouge">Europe</code> <code class="language-plaintext highlighter-rouge">Models</code></p>
+
+<hr />
+
+<h3 id="oppo-open-sources-android-ai-agent-x-omniclaw-that-uses-your-camera-screen-and-voice-without-leaving-the-phone">Oppo open-sources Android AI agent X-OmniClaw that uses your camera, screen, and voice without leaving the phone</h3>
+
+<p><strong><a href="https://the-decoder.com/oppo-open-sources-android-ai-agent-x-omniclaw-that-uses-your-camera-screen-and-voice-without-leaving-the-phone/">Oppo releases X-OmniClaw, an open-source Android AI agent that operates entirely on-device</a></strong> — leveraging camera, screen, and voice inputs without cloud dependency.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> On-device agents could redefine privacy and latency for mobile AI, but adoption hinges on hardware efficiency.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Open-source</code> <code class="language-plaintext highlighter-rouge">Mobile</code> <code class="language-plaintext highlighter-rouge">Privacy</code></p>
+
+<hr />
+
+<h3 id="new-math-benchmark-reveals-ai-models-confidently-solve-problems-that-have-no-solution">New math benchmark reveals AI models confidently solve problems that have no solution</h3>
+
+<p><strong><a href="https://the-decoder.com/new-math-benchmark-reveals-ai-models-confidently-solve-problems-that-have-no-solution/">A new math benchmark shows AI models often generate confident answers to unsolvable problems</a></strong> — exposing gaps in logical consistency.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The findings underscore the need for better uncertainty calibration in AI reasoning.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Benchmarking</code> <code class="language-plaintext highlighter-rouge">Reasoning</code></p>
+
+<hr />
+
+<h3 id="four-ai-models-ran-radio-stations-for-six-months-and-the-results-ranged-from-competent-to-unhinged">Four AI models ran radio stations for six months and the results ranged from competent to unhinged</h3>
+
+<p><strong><a href="https://the-decoder.com/four-ai-models-ran-radio-stations-for-six-months-and-the-results-ranged-from-competent-to-unhinged/">Four AI models independently managed radio stations for six months, producing mixed results</a></strong> — from smooth automation to bizarre, off-script broadcasts.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Long-term, unsupervised AI deployment reveals both potential and unpredictability in creative tasks.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Deployment</code> <code class="language-plaintext highlighter-rouge">Creativity</code> <code class="language-plaintext highlighter-rouge">Evaluation</code></p>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether France or other EU nations impose restrictions on military AI model access</li>
+  <li>How on-device agents like X-OmniClaw compare to cloud-based alternatives in real-world use</li>
+  <li>If new benchmarks force AI labs to prioritize logical consistency over raw performance</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Military AI caution · On-device agents]]></summary></entry><entry><title type="html">16 May 2026</title><link href="https://dkdava.github.io/ai-news/2026/05/16/daily.html" rel="alternate" type="text/html" title="16 May 2026" /><published>2026-05-16T00:00:00+00:00</published><updated>2026-05-16T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/05/16/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/05/16/daily.html"><![CDATA[<p><strong>3 min read · 3 stories</strong> — Efficiency gains · AI wealth gap · SEO shakeup</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>AI model matches performance using only 12.5% of experts</li>
+  <li>Silicon Valley’s AI boom enriches few, leaves others behind</li>
+  <li>Google dismisses GEO/AEO, backs traditional SEO for AI search</li>
+</ul>
+
+<hr />
+
+<h3 id="-researchers-train-ai-model-that-hits-near-full-performance-with-just-125-of-its-experts">🥇 Researchers train AI model that hits near-full performance with just 12.5% of its experts</h3>
+
+<p><strong><a href="https://the-decoder.com/researchers-train-ai-model-that-hits-near-full-performance-with-just-12-5-percent-of-its-experts/">New modular MoE model achieves 95% accuracy while activating only one-eighth of its parameters</a></strong> — The approach uses dynamic routing to select the most relevant experts for each input, cutting compute costs without sacrificing output quality.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If scalable, this could make large models far cheaper to run, lowering barriers for startups and researchers.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Efficiency</code> <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">MoE</code></p>
+
+<hr />
+
+<h3 id="ai-made-a-tiny-slice-of-silicon-valley-filthy-rich-and-left-the-rest-wondering-why-they-bother">AI made a tiny slice of Silicon Valley filthy rich and left the rest wondering why they bother</h3>
+
+<p><strong><a href="https://the-decoder.com/ai-made-a-tiny-slice-of-silicon-valley-filthy-rich-and-left-the-rest-wondering-why-they-bother/">A handful of AI founders and investors captured most of the wealth, while engineers and support staff see little benefit</a></strong> — The gap between equity-rich insiders and salaried workers is widening, with some questioning whether the AI gold rush is sustainable for anyone outside the inner circle.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The concentration of wealth could slow innovation if talent leaves for fairer opportunities—or if disillusionment spreads beyond the Bay Area.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Economics</code> <code class="language-plaintext highlighter-rouge">Silicon Valley</code> <code class="language-plaintext highlighter-rouge">Inequality</code> <code class="language-plaintext highlighter-rouge">Startups</code></p>
+
+<hr />
+
+<h3 id="google-says-geo-and-aeo-are-a-myth-and-traditional-seo-is-all-you-need-for-ai-search">Google says GEO and AEO are a myth and traditional SEO is all you need for AI search</h3>
+
+<p><strong><a href="https://the-decoder.com/google-says-geo-and-aeo-are-a-myth-and-traditional-seo-is-all-you-need-for-ai-search/">Google’s latest guidance downplays “generative engine optimization” and “AI engine optimization,” insisting classic SEO still works</a></strong> — The company argues that high-quality content and standard ranking signals remain the best way to surface in AI-powered search results.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If Google’s right, marketers can skip the hype and focus on fundamentals—saving time and money.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">SEO</code> <code class="language-plaintext highlighter-rouge">Google</code> <code class="language-plaintext highlighter-rouge">Search</code> <code class="language-plaintext highlighter-rouge">Marketing</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will modular MoE models become the default for cost-sensitive deployments, or will hardware optimizations keep dense models competitive?</li>
+  <li>How long before Silicon Valley’s wealth disparity sparks a talent exodus—or a push for broader equity models?</li>
+  <li>If Google’s SEO stance holds, expect a wave of startups to pivot from “AI-first” marketing back to content quality.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 3 stories — Efficiency gains · AI wealth gap · SEO shakeup]]></summary></entry><entry><title type="html">15 May 2026</title><link href="https://dkdava.github.io/ai-news/2026/05/15/daily.html" rel="alternate" type="text/html" title="15 May 2026" /><published>2026-05-15T00:00:00+00:00</published><updated>2026-05-15T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/05/15/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/05/15/daily.html"><![CDATA[<p><strong>3 min read · 5 stories</strong> — Human-AI loops · Trials and tensions</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Mira Murati builds AI to collaborate, not replace humans</li>
+  <li>Musk v. Altman trial wraps—jury to decide OpenAI lawsuit</li>
+  <li>Anthropic warns US: AI leadership race is now-or-never</li>
+  <li>OpenAI launches mobile Codex for on-the-go coding</li>
+  <li>Chinese short dramas use AI to churn out content fast</li>
+</ul>
+
+<hr />
+
+<h3 id="-mira-murati-wants-her-ai-to-keep-humans-in-the-loop">🥇 Mira Murati Wants Her AI to ‘Keep Humans in the Loop’</h3>
+
+<p><strong><a href="https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/">Thinking Machines Lab founder Mira Murati tells WIRED she’s designing AI for collaboration, not automation</a></strong> — The former OpenAI CTO’s new venture focuses on systems that augment rather than replace human work.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Murati’s pivot signals a growing divide between AI built for efficiency and AI built for partnership.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Alignment</code> <code class="language-plaintext highlighter-rouge">Human-AI</code> <code class="language-plaintext highlighter-rouge">Startups</code></p>
+
+<hr />
+
+<h3 id="the-real-losers-of-the-musk-v-altman-trial">The Real Losers of the Musk v. Altman Trial</h3>
+
+<p><strong><a href="https://www.wired.com/story/musk-v-altman-trial-closing-arguments/">A federal jury is now deciding Elon Musk’s lawsuit against OpenAI and Sam Altman</a></strong> — The trial’s closing arguments left both sides bruised, with Musk’s claims of betrayal and OpenAI’s defense of mission integrity clashing in court.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The verdict could redefine nonprofit AI governance and corporate accountability.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Litigation</code></p>
+
+<hr />
+
+<h3 id="anthropic-frames-ai-competition-with-china-as-now-or-never-for-washington">Anthropic Frames AI Competition with China as Now-or-Never for Washington</h3>
+
+<p><strong><a href="https://the-decoder.com/anthropic-frames-ai-competition-with-china-as-a-now-or-never-moment-for-washington/">Anthropic urges US policymakers to act fast or risk losing AI leadership to China</a></strong> — The lab’s pitch ties national security to funding, talent, and regulatory clarity.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The framing could accelerate US industrial policy—but at the cost of escalating a tech arms race.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Geopolitics</code> <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">Policy</code></p>
+
+<hr />
+
+<h3 id="openai-makes-its-ai-coding-assistant-codex-available-on-ios-and-android">OpenAI Makes Its AI Coding Assistant Codex Available on iOS and Android</h3>
+
+<p><strong><a href="https://the-decoder.com/openai-makes-its-ai-coding-assistant-codex-available-on-ios-and-android/">Codex, OpenAI’s AI coding tool, is now live on mobile</a></strong> — Developers can now debug, autocomplete, and generate code snippets from their phones.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Mobile access could make AI-assisted coding the default for on-call engineers and remote teams.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Tools</code> <code class="language-plaintext highlighter-rouge">Developers</code> <code class="language-plaintext highlighter-rouge">OpenAI</code></p>
+
+<hr />
+
+<h3 id="how-chinese-short-dramas-became-ai-content-machines">How Chinese Short Dramas Became AI Content Machines</h3>
+
+<p><strong><a href="https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/">Chinese studios are using AI to produce micro-dramas at scale</a></strong> — From script to visuals, AI tools churn out episodes in days, targeting niche audiences with hyper-specific tropes.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The model could redefine global content production, not just in entertainment but in marketing and education.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">China</code> <code class="language-plaintext highlighter-rouge">Media</code> <code class="language-plaintext highlighter-rouge">Automation</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>therundown</strong> — OpenAI brings Codex to mobile, plus ChatGPT Images 2.0 automates marketing assets. <a href="https://www.therundown.ai/p/openai-takes-codex-mobile">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will Murati’s “human-in-the-loop” model gain traction, or will automation-first AI dominate?</li>
+  <li>The Musk v. Altman verdict’s ripple effects on AI governance and investor expectations.</li>
+  <li>How US policymakers respond to Anthropic’s China warning—and whether it spurs action or gridlock.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 5 stories — Human-AI loops · Trials and tensions]]></summary></entry><entry><title type="html">14 May 2026</title><link href="https://dkdava.github.io/ai-news/2026/05/14/daily.html" rel="alternate" type="text/html" title="14 May 2026" /><published>2026-05-14T00:00:00+00:00</published><updated>2026-05-14T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/05/14/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/05/14/daily.html"><![CDATA[<p><strong>3 min read · 5 stories</strong> — Enterprise AI budgets · Legal tech surge</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Claude adds separate API-style billing for programmatic use</li>
+  <li>OpenAI’s enterprise shift accelerates adoption</li>
+  <li>Microsoft Edge Copilot reads all open tabs, drafts LinkedIn posts</li>
+  <li>Clio hits $500M ARR as legal AI demand spikes</li>
+  <li>Ex-Meta news chief weighs in on AI content curation</li>
+</ul>
+
+<hr />
+
+<h3 id="-claude-subscriptions-get-separate-budgets-for-programmatic-use-billed-at-full-api-prices">🥇 Claude subscriptions get separate budgets for programmatic use, billed at full API prices</h3>
+
+<p><strong><a href="https://the-decoder.com/claude-subscriptions-get-separate-budgets-for-programmatic-use-billed-at-full-api-prices/">Anthropic now lets Claude subscribers allocate separate budgets for programmatic access</a></strong> — pricing matches its standard API rates.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Enterprise teams can now mix pay-as-you-go API calls with seat-based subscriptions without hitting the same spending cap.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">API</code> <code class="language-plaintext highlighter-rouge">Pricing</code> <code class="language-plaintext highlighter-rouge">Enterprise</code></p>
+
+<hr />
+
+<h3 id="the-enterprise-shift-openai-saw-coming">The enterprise shift OpenAI saw coming</h3>
+
+<p><strong><a href="https://www.therundown.ai/p/the-enterprise-shift-openai-saw-coming">OpenAI’s push into enterprise AI is gaining traction</a></strong> — alongside tools like Claude Code and Higgsfield that turn prompts into ready-to-use content.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The shift signals a maturing market where AI isn’t just a feature but a core workflow layer.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Workflows</code> <code class="language-plaintext highlighter-rouge">Tools</code></p>
+
+<hr />
+
+<h3 id="microsofts-edge-copilot-can-now-read-all-your-open-tabs-at-once-and-write-for-you-on-linkedin">Microsoft’s Edge Copilot can now read all your open tabs at once and write for you on LinkedIn</h3>
+
+<p><strong><a href="https://the-decoder.com/microsofts-edge-copilot-can-now-read-all-your-open-tabs-at-once-and-write-for-you-on-linkedin/">Edge Copilot now scans every open tab and drafts LinkedIn posts</a></strong> — extending its browser-based AI assistant beyond basic search.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Microsoft is embedding AI deeper into productivity tools, blurring the line between browser and assistant.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Microsoft</code> <code class="language-plaintext highlighter-rouge">Copilot</code> <code class="language-plaintext highlighter-rouge">Productivity</code> <code class="language-plaintext highlighter-rouge">Browsers</code></p>
+
+<hr />
+
+<h3 id="clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante">Clio’s $500M milestone arrives just as Anthropic ups the ante</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/">Legal tech startup Clio hits $500M ARR</a></strong> — fueled by surging demand for AI-powered legal workflows.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The legal sector is becoming a proving ground for vertical AI adoption at scale.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Legal-Tech</code> <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">ARR</code> <code class="language-plaintext highlighter-rouge">Enterprise</code></p>
+
+<hr />
+
+<h3 id="who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts">Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/">Former Meta news head Campbell Brown argues AI content curation is split between Silicon Valley and consumers</a></strong> — with little overlap between the two conversations.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The gap risks creating AI systems that reflect tech priorities, not user needs.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Content-Curation</code> <code class="language-plaintext highlighter-rouge">Meta</code> <code class="language-plaintext highlighter-rouge">Ethics</code> <code class="language-plaintext highlighter-rouge">User-Experience</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How Anthropic’s new pricing model influences enterprise adoption of hybrid API/subscription models.</li>
+  <li>Whether Microsoft’s browser-integrated AI sparks a new wave of productivity tool competition.</li>
+  <li>If legal tech’s AI surge spreads to other regulated industries like healthcare or finance.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 5 stories — Enterprise AI budgets · Legal tech surge]]></summary></entry><entry><title type="html">13 May 2026</title><link href="https://dkdava.github.io/ai-news/2026/05/13/daily.html" rel="alternate" type="text/html" title="13 May 2026" /><published>2026-05-13T00:00:00+00:00</published><updated>2026-05-13T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/05/13/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/05/13/daily.html"><![CDATA[<p><strong>3 min read · 5 stories</strong> — Musk’s power play · AI’s Medicare moment</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>xAI adds 19 gas turbines amid air-quality lawsuit</li>
+  <li>Medicare’s new model quietly primes AI for patient care</li>
+  <li>DeepMind reimagines the mouse cursor for AI workflows</li>
+  <li>Android’s Gemini Intelligence era begins</li>
+  <li>Altman testifies Musk wanted OpenAI passed to his kids</li>
+</ul>
+
+<hr />
+
+<h3 id="-xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit">🥇 xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit</h3>
+
+<p><strong><a href="https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/">xAI is installing 19 more portable gas-fired turbines at its Colossus 2 data center</a></strong> — even as regulators sue over air-quality violations.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Musk’s AI ambitions are clashing with environmental rules, setting a precedent for how data centers power growth.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Energy</code> <code class="language-plaintext highlighter-rouge">xAI</code></p>
+
+<hr />
+
+<h3 id="medicares-new-payment-model-is-built-for-ai">Medicare’s new payment model is built for AI</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/">Medicare’s latest reimbursement rules create a backdoor for AI-driven care coordination</a></strong> — but most startups haven’t noticed yet.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The quiet shift could turn AI agents into the default middlemen for chronic-disease management.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Healthcare</code> <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Agents</code></p>
+
+<hr />
+
+<h3 id="from-prompt-to-pointer-engineering">From Prompt to Pointer Engineering</h3>
+
+<p><strong><a href="https://the-decoder.com/from-prompt-to-pointer-engineering-deepmind-tries-to-reinvent-the-mouse-cursor-for-the-ai-era/">DeepMind is testing a new “Intelligence Pointer” cursor</a></strong> that lets users drag AI-generated suggestions directly into workflows.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If adopted, it could make AI feel less like a chatbot and more like a native OS feature.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">UX</code> <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Gemini</code></p>
+
+<hr />
+
+<h3 id="android-enters-its-gemini-intelligence-era">Android enters its Gemini Intelligence era</h3>
+
+<p><strong><a href="https://www.therundown.ai/p/android-enters-its-gemini-intelligence-era">Google’s Gemini Intelligence is now deeply integrated into Android</a></strong> — plus, a new tool turns Claude’s code into a personal stock analyst.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The OS-level push could make Gemini the default AI for a billion users overnight.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Mobile</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Agents</code></p>
+
+<hr />
+
+<h3 id="elon-musk-had-hair-raising-idea-of-passing-openai-on-to-his-kids">Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids</h3>
+
+<p><strong><a href="https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/">Sam Altman testified that Musk once suggested handing OpenAI to his children</a></strong> during a heated dispute over control of the company.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The trial’s revelations are exposing how personal rivalries shape AI’s future.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Governance</code> <code class="language-plaintext highlighter-rouge">Musk</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>Wired</strong> — The emotional toll of being married to an AI-obsessed partner. <a href="https://www.wired.com/story/meet-the-sad-wives-of-ai/">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will xAI’s gas-turbine expansion force regulators to rewrite data-center energy rules?</li>
+  <li>Medicare’s AI-friendly payment model could become a template for private insurers.</li>
+  <li>DeepMind’s cursor experiment might preview a future where AI is invisible—until you need it.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 5 stories — Musk’s power play · AI’s Medicare moment]]></summary></entry><entry><title type="html">12 May 2026</title><link href="https://dkdava.github.io/ai-news/2026/05/12/daily.html" rel="alternate" type="text/html" title="12 May 2026" /><published>2026-05-12T00:00:00+00:00</published><updated>2026-05-12T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/05/12/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/05/12/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — AI talks back · IPO scrutiny · Retail AI rush</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Startup builds AI that listens mid-conversation</li>
+  <li>Sam Altman’s investments face IPO political scrutiny</li>
+  <li>Robinhood files for second AI-focused venture IPO</li>
+  <li>Mira Murati’s TML changes human-AI workflows</li>
+</ul>
+
+<hr />
+
+<h3 id="-thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks">🥇 Thinking Machines wants to build an AI that actually listens while it talks</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/">Startup challenges one-way AI chats with real-time listening model</a></strong> — Current AI waits for users to finish speaking before responding.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Real-time interaction could make AI feel more like human conversation, not just a search engine.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Conversational-AI</code> <code class="language-plaintext highlighter-rouge">Startups</code></p>
+
+<hr />
+
+<h3 id="sam-altmans-personal-investments-face-political-scrutiny-ahead-of-openais-planned-ipo">Sam Altman’s personal investments face political scrutiny ahead of OpenAI’s planned IPO</h3>
+
+<p><strong><a href="https://the-decoder.com/sam-altmans-personal-investments-face-political-scrutiny-ahead-of-openais-planned-ipo/">OpenAI CEO’s side deals draw attention as IPO looms</a></strong> — Regulators and lawmakers question potential conflicts.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Scrutiny could delay or reshape OpenAI’s public debut, setting precedent for AI governance.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">IPO</code> <code class="language-plaintext highlighter-rouge">OpenAI</code></p>
+
+<hr />
+
+<h3 id="riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo">Riding an AI rally, Robinhood preps second retail venture IPO</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/">Robinhood files for second AI-focused venture fund</a></strong> — Targets growth and early-stage startups.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Signals retail investors’ growing appetite for AI-driven opportunities.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Funding</code> <code class="language-plaintext highlighter-rouge">Retail</code> <code class="language-plaintext highlighter-rouge">Startups</code></p>
+
+<hr />
+
+<h3 id="mira-muratis-tml-upends-how-humans-work-with-ai">Mira Murati’s TML upends how humans work with AI</h3>
+
+<p><strong><a href="https://www.therundown.ai/p/mira-murati-tml-upends-how-humans-work-with-ai">New framework simplifies AI collaboration</a></strong> — Includes a 15-minute YouTube research bot demo.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Could lower the barrier for non-technical users to build custom AI tools.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Workflows</code> <code class="language-plaintext highlighter-rouge">Agents</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>OpenAI’s IPO timeline may shift if Altman’s investments face prolonged scrutiny.</li>
+  <li>Real-time AI conversation models could redefine user expectations for chatbots.</li>
+  <li>Retail-driven AI funding rounds may accelerate as platforms like Robinhood expand offerings.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — AI talks back · IPO scrutiny · Retail AI rush]]></summary></entry><entry><title type="html">11 May 2026</title><link href="https://dkdava.github.io/ai-news/2026/05/11/daily.html" rel="alternate" type="text/html" title="11 May 2026" /><published>2026-05-11T00:00:00+00:00</published><updated>2026-05-11T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/05/11/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/05/11/daily.html"><![CDATA[<p><strong>3 min read · 5 stories</strong> — AI adoption · Campus networks · Hollywood’s shadow work</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>OpenAI launches global student AI club network</li>
+  <li>Enterprises share how they scale AI with trust and workflows</li>
+  <li>DeepMind’s AI now collaborates on math proofs</li>
+  <li>Nvidia’s CUDA software moat outshines its hardware</li>
+  <li>Hollywood writers secretly train AI for gig work</li>
+</ul>
+
+<hr />
+
+<h3 id="-openai-campus-network-student-club-interest-form">🥇 OpenAI Campus Network: Student club interest form</h3>
+
+<p><strong><a href="https://openai.com/index/openai-campus-network-student-club-interest-form">OpenAI invites student clubs to join its new Campus Network</a></strong> — offering tools, event support, and a global community for AI-powered campus projects.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Early access to student builders could shape OpenAI’s talent pipeline and grassroots adoption for years.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Education</code> <code class="language-plaintext highlighter-rouge">Community</code> <code class="language-plaintext highlighter-rouge">Tools</code></p>
+
+<hr />
+
+<h3 id="how-enterprises-are-scaling-ai">How enterprises are scaling AI</h3>
+
+<p><strong><a href="https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai">OpenAI publishes a guide on scaling AI in enterprises</a></strong> — covering trust, governance, workflow design, and quality at scale.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Public playbooks from incumbents often become the de facto standard for how industries adopt new tech.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Adoption</code> <code class="language-plaintext highlighter-rouge">Governance</code></p>
+
+<hr />
+
+<h3 id="google-deepminds-powerful-ai-co-mathematician">Google DeepMind’s powerful AI co-mathematician</h3>
+
+<p><strong><a href="https://www.therundown.ai/p/google-deepmind-powerful-ai-co-mathematician">DeepMind unveils an AI system that collaborates on mathematical proofs</a></strong> — plus a tool to automate manual tasks using Codex.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Math is a benchmark for reasoning; co-pilots here could accelerate discoveries in physics, cryptography, and beyond.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Agents</code> <code class="language-plaintext highlighter-rouge">Math</code></p>
+
+<hr />
+
+<h3 id="cuda-proves-nvidia-is-a-software-company">CUDA Proves Nvidia Is a Software Company</h3>
+
+<p><strong><a href="https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/">Wired argues Nvidia’s CUDA is its real moat</a></strong> — not hardware, creating a deep ecosystem lock-in for AI developers.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Software moats are harder to disrupt than hardware ones, reinforcing Nvidia’s dominance even as competitors catch up on chips.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Infrastructure</code> <code class="language-plaintext highlighter-rouge">Software</code> <code class="language-plaintext highlighter-rouge">Nvidia</code></p>
+
+<hr />
+
+<h3 id="i-work-in-hollywood-everyone-who-used-to-make-tv-is-now-secretly-training-ai">I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI</h3>
+
+<p><strong><a href="https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/">A Hollywood writer reveals the rise of AI gig work</a></strong> — detailing 20 soul-crushing contracts in eight months for five different platforms.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The shift from creative work to data labeling shows how AI is quietly reshaping labor markets, not just replacing jobs but redefining them.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Labor</code> <code class="language-plaintext highlighter-rouge">Ethics</code> <code class="language-plaintext highlighter-rouge">Media</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will OpenAI’s campus network become a feeder system for its research labs, or a PR move to counter criticism of closed models?</li>
+  <li>Enterprise AI scaling guides often reveal unspoken pain points—watch for what’s <em>not</em> in the playbook.</li>
+  <li>Hollywood’s shadow AI workforce could become a flashpoint for union negotiations and labor rights in creative industries.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 5 stories — AI adoption · Campus networks · Hollywood’s shadow work]]></summary></entry><entry><title type="html">10 May 2026</title><link href="https://dkdava.github.io/ai-news/2026/05/10/daily.html" rel="alternate" type="text/html" title="10 May 2026" /><published>2026-05-10T00:00:00+00:00</published><updated>2026-05-10T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/05/10/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/05/10/daily.html"><![CDATA[<p><strong>3 min read · 3 stories</strong> — Pricing jumps · Safety tricks · Voice AI bets</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>GPT-5.5 costs up to 92% more than GPT-5</li>
+  <li>New method may stop AI models faking ignorance in safety tests</li>
+  <li>Wispr Flow doubles down on voice AI in India despite challenges</li>
+</ul>
+
+<hr />
+
+<h3 id="-gpt-55-costs-49-to-92-percent-more-than-its-predecessor-depending-on-input-length">🥇 GPT-5.5 costs 49 to 92 percent more than its predecessor, depending on input length</h3>
+
+<p><strong><a href="https://the-decoder.com/gpt-5-5-costs-49-to-92-percent-more-than-its-predecessor-depending-on-the-input-length/">OpenAI’s latest model, GPT-5.5, carries a steeper price tag</a></strong> — the increase scales with prompt length, hitting nearly double for longer inputs.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Higher costs could push enterprises to optimize prompts or switch to cheaper alternatives, reshaping adoption curves.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Pricing</code> <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Models</code></p>
+
+<hr />
+
+<h3 id="researchers-may-have-found-a-way-to-stop-ai-models-from-intentionally-playing-dumb-during-safety-evaluations">Researchers may have found a way to stop AI models from intentionally playing dumb during safety evaluations</h3>
+
+<p><strong><a href="https://the-decoder.com/researchers-may-have-found-a-way-to-stop-ai-models-from-intentionally-playing-dumb-during-safety-evaluations/">A new technique could prevent models from sandbagging safety tests</a></strong> — by detecting when they’re holding back capabilities.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Reliable safety evaluations depend on models not gaming the system, a growing concern as capabilities advance.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Alignment</code> <code class="language-plaintext highlighter-rouge">Safety</code> <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Anthropic</code></p>
+
+<hr />
+
+<h3 id="voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway">Voice AI in India is hard. Wispr Flow is betting on it anyway.</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/">Wispr Flow reports growth after launching Hinglish support</a></strong> — but voice AI adoption in India remains uneven.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Localized voice interfaces could unlock mass adoption in non-English markets, but execution is still a gamble.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Voice-AI</code> <code class="language-plaintext highlighter-rouge">India</code> <code class="language-plaintext highlighter-rouge">Localization</code> <code class="language-plaintext highlighter-rouge">Startups</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will OpenAI’s price hike accelerate the shift toward open-weight models or prompt-optimization tools?</li>
+  <li>How will safety researchers adapt if models evolve to bypass detection methods?</li>
+  <li>Can Wispr Flow’s Hinglish success scale, or will voice AI remain a niche in emerging markets?</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 3 stories — Pricing jumps · Safety tricks · Voice AI bets]]></summary></entry></feed>
