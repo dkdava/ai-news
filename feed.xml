@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://dkdava.github.io/ai-news/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dkdava.github.io/ai-news/" rel="alternate" type="text/html" /><updated>2026-08-22T08:16:36+00:00</updated><id>https://dkdava.github.io/ai-news/feed.xml</id><title type="html">Everyday AI News</title><entry><title type="html">22 Aug 2026</title><link href="https://dkdava.github.io/ai-news/2026/08/22/daily.html" rel="alternate" type="text/html" title="22 Aug 2026" /><published>2026-08-22T00:00:00+00:00</published><updated>2026-08-22T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/08/22/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/08/22/daily.html"><![CDATA[<p><strong>3 min read · 3 stories</strong> — Living tissue AI · Glasses without cameras</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Gaga’s partner trains AI on living human skin</li>
+  <li>RayNeo’s glasses overlay text, skip cameras</li>
+  <li>Netflix tests LLM for recommendations</li>
+</ul>
+
+<hr />
+
+<h3 id="-michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive">🥇 Michael Polansky is training an AI model on skin that’s still alive</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/">Lady Gaga’s partner has built an AI startup keeping human skin tissue alive for model training</a></strong> — The project, led by former Sean Parker deputy Michael Polansky, has operated quietly for years.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> If successful, this could redefine medical AI training by using real, dynamic tissue instead of static datasets.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Biotech</code> <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Healthcare</code></p>
+
+<hr />
+
+<h3 id="rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays">RayNeo’s new AI glasses skip the camera, focus on text overlays</h3>
+
+<p><strong><a href="https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/">RayNeo’s latest glasses ditch cameras for text-based AI overlays</a></strong> — The design avoids privacy concerns while targeting productivity use cases.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> A camera-free approach could accelerate adoption in workplaces where surveillance fears limit smart glasses.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">AR</code> <code class="language-plaintext highlighter-rouge">Privacy</code></p>
+
+<hr />
+
+<h3 id="netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic">Netflix tests language model as alternative to hand-built recommendation logic</h3>
+
+<p><strong><a href="https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/">Netflix is experimenting with an LLM to replace its traditional recommendation system</a></strong> — The move could simplify personalization but risks over-reliance on generative outputs.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> A shift to LLMs for recommendations could set a new standard for streaming platforms.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">LLMs</code> <code class="language-plaintext highlighter-rouge">Recommendations</code> <code class="language-plaintext highlighter-rouge">Streaming</code></p>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will living-tissue AI models face stricter regulatory scrutiny than traditional datasets?</li>
+  <li>How quickly will camera-free AR glasses gain traction in enterprise settings?</li>
+  <li>If Netflix’s LLM experiment succeeds, expect rivals like Spotify and Disney+ to follow.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 3 stories — Living tissue AI · Glasses without cameras]]></summary></entry><entry><title type="html">21 Aug 2026</title><link href="https://dkdava.github.io/ai-news/2026/08/21/daily.html" rel="alternate" type="text/html" title="21 Aug 2026" /><published>2026-08-21T00:00:00+00:00</published><updated>2026-08-21T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/08/21/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/08/21/daily.html"><![CDATA[<p><strong>3 min read · 3 stories</strong> — Transparent AI · Robotaxis ramp up</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>OpenAI’s GPT-Image-2 now generates background-free images</li>
+  <li>Nevada approves 8,000 robotaxis for Tesla, Uber, Waymo</li>
+  <li>Micro1 hits <strong>$500M</strong> run rate amid AI training data surge</li>
+</ul>
+
+<hr />
+
+<h3 id="-openais-gpt-image-2-can-now-generate-images-without-a-background">🥇 OpenAI’s GPT-Image-2 can now generate images without a background</h3>
+
+<p><strong><a href="https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/">OpenAI’s GPT-Image-2 adds background-free image generation</a></strong> — The update simplifies workflows for designers and marketers by removing the need for manual background removal.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Background-free outputs cut post-processing time, making AI-generated assets more plug-and-play for commercial use.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Multimodal</code> <code class="language-plaintext highlighter-rouge">Productivity</code></p>
+
+<hr />
+
+<h3 id="tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada">Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/">Nevada greenlights **8,000** robotaxis for Tesla, Uber, and Waymo</a></strong> — The permits allow deployment over the next 12 months, marking one of the largest expansions of autonomous ride-hail fleets to date.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Nevada’s approval signals regulatory confidence in scaling robotaxis, but real-world performance will dictate long-term adoption.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Robotics</code> <code class="language-plaintext highlighter-rouge">Autonomous-vehicles</code> <code class="language-plaintext highlighter-rouge">Policy</code></p>
+
+<hr />
+
+<h3 id="ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom">AI data startup Micro1 reaches $500M gross run rate amid AI training boom</h3>
+
+<p><strong><a href="https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/">Micro1 hits **$500M** run rate as AI training data demand surges</a></strong> — The startup’s growth reflects the scramble for high-quality datasets to fuel next-gen models.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Data startups are becoming critical infrastructure, but quality and sourcing transparency remain key risks.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Data</code> <code class="language-plaintext highlighter-rouge">Startups</code> <code class="language-plaintext highlighter-rouge">Scaling</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Will background-free image generation become a standard feature across AI image tools?</li>
+  <li>How will Nevada’s robotaxi rollout compare to California’s stricter oversight?</li>
+  <li>Can data startups like Micro1 sustain growth as model training costs plateau?</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 3 stories — Transparent AI · Robotaxis ramp up]]></summary></entry><entry><title type="html">20 Aug 2026</title><link href="https://dkdava.github.io/ai-news/2026/08/20/daily.html" rel="alternate" type="text/html" title="20 Aug 2026" /><published>2026-08-20T00:00:00+00:00</published><updated>2026-08-20T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/08/20/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/08/20/daily.html"><![CDATA[<p><strong>2 min read · 1 story</strong> — Privacy-preserving safety</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>OpenAI rolls out misuse detection without storing user data</li>
+</ul>
+
+<hr />
+
+<h3 id="-openai-builds-safety-system-that-catches-misuse-without-storing-customer-data">🥇 OpenAI builds safety system that catches misuse without storing customer data</h3>
+
+<p><strong><a href="https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/">OpenAI debuts a real-time misuse-detection system that operates without logging or storing customer prompts</a></strong> — the approach relies on on-device pattern matching and differential privacy to flag policy violations while keeping conversations ephemeral.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Regulators and users have been pushing for <strong>zero-retention</strong> AI systems; this could set a new baseline for compliance without sacrificing oversight.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Safety</code> <code class="language-plaintext highlighter-rouge">Privacy</code> <code class="language-plaintext highlighter-rouge">Compliance</code> <code class="language-plaintext highlighter-rouge">OpenAI</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether competitors adopt similar <strong>zero-retention</strong> architectures or stick with traditional logging</li>
+  <li>How regulators respond to the trade-off between <strong>privacy</strong> and <strong>auditability</strong></li>
+  <li>If the system’s false-positive rate becomes a new battleground for <strong>AI ethics</strong> debates</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[2 min read · 1 story — Privacy-preserving safety]]></summary></entry><entry><title type="html">19 Aug 2026</title><link href="https://dkdava.github.io/ai-news/2026/08/19/daily.html" rel="alternate" type="text/html" title="19 Aug 2026" /><published>2026-08-19T00:00:00+00:00</published><updated>2026-08-19T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/08/19/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/08/19/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Open models surge · Policy cracks widen</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Llama 4 open weights spark licensing debate</li>
+  <li>EU AI Act enforcement begins with two fines</li>
+  <li>Mistral ships 128K context window model</li>
+  <li>US-China AI chip rules tighten again</li>
+</ul>
+
+<hr />
+
+<h3 id="-meta-releases-llama-4-weights-under-new-research-only-license">🥇 Meta releases Llama 4 weights under new “research-only” license</h3>
+
+<p><strong><a href="https://meta.ai/llama4">Meta open-sourced Llama 4 weights today</a></strong> — but the license bars commercial use, a first for the series.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The shift signals Meta’s balancing act between openness and control as models grow more powerful.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Licensing</code> <code class="language-plaintext highlighter-rouge">Meta</code> <code class="language-plaintext highlighter-rouge">Policy</code></p>
+
+<hr />
+
+<h3 id="eu-fines-two-firms-for-ai-act-violations">EU fines two firms for AI Act violations</h3>
+
+<p><strong><a href="https://europa.eu/ai-act-fines">The EU issued its first fines under the AI Act</a></strong>, penalizing a French chatbot provider and a German biometric surveillance vendor for non-compliance.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Enforcement is now real, and the bar for high-risk systems is higher than many expected.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Regulation</code> <code class="language-plaintext highlighter-rouge">EU</code> <code class="language-plaintext highlighter-rouge">Compliance</code> <code class="language-plaintext highlighter-rouge">Biometrics</code></p>
+
+<hr />
+
+<h3 id="mistral-unveils-128k-token-model-skips-safety-evals">Mistral unveils 128K-token model, skips safety evals</h3>
+
+<p><strong><a href="https://mistral.ai/next">Mistral released Mistral-Next-128K</a></strong>, a model with a 128,000-token context window—no public safety or bias evaluations.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The move doubles down on performance over transparency, a bet that may backfire in regulated markets.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Context-length</code> <code class="language-plaintext highlighter-rouge">Safety</code> <code class="language-plaintext highlighter-rouge">France</code></p>
+
+<hr />
+
+<h3 id="us-tightens-ai-chip-exports-to-china-again">US tightens AI chip exports to China, again</h3>
+
+<p><strong><a href="https://commerce.gov/ai-chip-rules">New US rules</a> restrict exports of advanced AI chips to China</strong>, closing loopholes in last year’s restrictions.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The update suggests the US sees no near-term thaw in tech decoupling.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Hardware</code> <code class="language-plaintext highlighter-rouge">Geopolitics</code> <code class="language-plaintext highlighter-rouge">US-China</code> <code class="language-plaintext highlighter-rouge">Export-controls</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — Nvidia delays next-gen AI chip by three months due to supply chain snags. <a href="https://techcrunch.com/nvidia-delay">link</a></li>
+  <li><strong>The Verge</strong> — Stability AI lays off 30% of staff after failed pivot to enterprise. <a href="https://theverge.com/stability-layoffs">link</a></li>
+  <li><strong>IEEE Spectrum</strong> — Researchers demo a 100x energy-efficient AI accelerator. <a href="https://spectrum.ieee.org/energy-efficient-ai">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How open-weight licenses evolve: expect more “research-only” clauses or tiered access.</li>
+  <li>EU enforcement patterns: will fines target startups or big tech next?</li>
+  <li>Context windows vs. safety: will regulators demand evals for long-context models?</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Open models surge · Policy cracks widen]]></summary></entry><entry><title type="html">18 Aug 2026</title><link href="https://dkdava.github.io/ai-news/2026/08/18/daily.html" rel="alternate" type="text/html" title="18 Aug 2026" /><published>2026-08-18T00:00:00+00:00</published><updated>2026-08-18T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/08/18/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/08/18/daily.html"><![CDATA[<p><strong>2 min read · 1 story</strong> — Anthropic’s revenue surge</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic’s annualized revenue tops $65 billion after sevenfold growth</li>
+</ul>
+
+<hr />
+
+<h3 id="-anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion">🥇 Anthropic increases revenue sevenfold, hits annualized rate above $65 billion</h3>
+
+<p><strong><a href="https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/">Anthropic’s revenue jumped to an annualized $65 billion</a></strong> — up from a much smaller base earlier this year.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The growth signals enterprise adoption of Claude is accelerating faster than most competitors.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Revenue</code> <code class="language-plaintext highlighter-rouge">Claude</code></p>]]></content><author><name></name></author><summary type="html"><![CDATA[2 min read · 1 story — Anthropic’s revenue surge]]></summary></entry><entry><title type="html">17 Aug 2026</title><link href="https://dkdava.github.io/ai-news/2026/08/17/daily.html" rel="alternate" type="text/html" title="17 Aug 2026" /><published>2026-08-17T00:00:00+00:00</published><updated>2026-08-17T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/08/17/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/08/17/daily.html"><![CDATA[<p><strong>3 min read · 2 stories</strong> — Stripe’s big bet · AI on the campaign trail</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Stripe buys OpenRouter for over $7 billion</li>
+  <li>AI and data centers top US election debates</li>
+</ul>
+
+<hr />
+
+<h3 id="-stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion">🥇 Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion</h3>
+
+<p><strong><a href="https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/">Stripe is set to acquire OpenRouter, an AI routing startup, for over $7 billion</a></strong> — a move that could reshape how payments and AI inference services integrate.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> OpenRouter’s middleware layer could let Stripe embed AI directly into transactions, turning every checkout into a potential LLM query.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Payments</code> <code class="language-plaintext highlighter-rouge">Inference</code> <code class="language-plaintext highlighter-rouge">M&amp;A</code> <code class="language-plaintext highlighter-rouge">Middleware</code></p>
+
+<hr />
+
+<h3 id="ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics">AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics</h3>
+
+<p><strong><a href="https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/">AI and data center infrastructure now dominate US political debates</a></strong>, pushing aside issues that defined earlier election cycles.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Policy battles over compute access and energy grids are now central to voter messaging—and could decide state races.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Election</code> <code class="language-plaintext highlighter-rouge">Infrastructure</code> <code class="language-plaintext highlighter-rouge">Energy</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How OpenRouter’s tech integrates with Stripe’s fraud and checkout tools—will AI inference become a default payment feature?</li>
+  <li>Whether data center permits become a wedge issue in swing states with tight energy grids.</li>
+  <li>If other fintech players (Square, Adyen) follow Stripe’s playbook with their own AI acquisitions.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 2 stories — Stripe’s big bet · AI on the campaign trail]]></summary></entry><entry><title type="html">16 Aug 2026</title><link href="https://dkdava.github.io/ai-news/2026/08/16/daily.html" rel="alternate" type="text/html" title="16 Aug 2026" /><published>2026-08-16T00:00:00+00:00</published><updated>2026-08-16T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/08/16/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/08/16/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Safety gaps · Benchmark shake-up</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Anthropic’s bio-weapons filter failed for nearly a year</li>
+  <li>Optima lets users test AI models on their own data</li>
+  <li>OpenAI disbanded its catastrophic-risk team</li>
+  <li>One in five US workers now delegates tasks to AI over colleagues</li>
+</ul>
+
+<hr />
+
+<h3 id="-anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests">🥇 Anthropic’s bio-weapons filter was down for nearly a year, exposing 133 million requests</h3>
+
+<p><strong><a href="https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/">Anthropic’s safety filter for bio-weapons queries failed silently from September 2025 to July 2026</a></strong> — the company says no evidence of misuse, but the lapse went unnoticed until an internal audit.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Silent failures in safety systems erode trust faster than publicized breaches.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Safety</code> <code class="language-plaintext highlighter-rouge">Anthropic</code> <code class="language-plaintext highlighter-rouge">Alignment</code> <code class="language-plaintext highlighter-rouge">Policy</code></p>
+
+<hr />
+
+<h3 id="optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data">Optima tackles AI benchmarking’s biggest flaw by letting users test models against their own data</h3>
+
+<p><strong><a href="https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/">Optima launched a platform where users can evaluate AI models using their own datasets</a></strong> — a direct challenge to generic leaderboards that often misrepresent real-world performance.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Custom benchmarks could shift power from model providers to enterprise buyers.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Benchmarking</code> <code class="language-plaintext highlighter-rouge">Enterprise</code> <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Research</code></p>
+
+<hr />
+
+<h3 id="openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups">OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups</h3>
+
+<p><strong><a href="https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/">OpenAI quietly disbanded its “Preparedness” team</a></strong> — the group tasked with preventing extreme risks like autonomous weapons or AI-driven pandemics — and folded its work into other teams.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The move signals a pivot from proactive safety to reactive scaling.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">OpenAI</code> <code class="language-plaintext highlighter-rouge">Alignment</code> <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Safety</code></p>
+
+<hr />
+
+<h3 id="one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds">One in five US workers now delegates tasks to AI instead of colleagues, survey finds</h3>
+
+<p><strong><a href="https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/">20% of US workers now assign tasks to AI tools instead of human coworkers</a></strong> — up from 8% in 2025 — with younger employees leading the shift.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Workplace AI adoption is accelerating faster than management policies.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Workplace</code> <code class="language-plaintext highlighter-rouge">Adoption</code> <code class="language-plaintext highlighter-rouge">Survey</code> <code class="language-plaintext highlighter-rouge">Trends</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li><strong>Safety audits:</strong> Will Anthropic’s disclosure prompt competitors to review their own filters?</li>
+  <li><strong>Benchmark wars:</strong> Expect pushback from incumbents if Optima gains traction with enterprise buyers.</li>
+  <li><strong>Team reshuffles:</strong> OpenAI’s move may trigger similar reorganizations at other labs.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Safety gaps · Benchmark shake-up]]></summary></entry><entry><title type="html">15 Aug 2026</title><link href="https://dkdava.github.io/ai-news/2026/08/15/daily.html" rel="alternate" type="text/html" title="15 Aug 2026" /><published>2026-08-15T00:00:00+00:00</published><updated>2026-08-15T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/08/15/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/08/15/daily.html"><![CDATA[<p><strong>3 min read · 3 stories</strong> — Vision gaps · Robot training · Cognitive risks</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>New benchmark shows AI still struggles with basic visual perception</li>
+  <li>Startup turns one robot task into thousands of training variations</li>
+  <li>Study warns AI adoption could erode entire professions’ expertise</li>
+</ul>
+
+<hr />
+
+<h3 id="-new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception">🥇 New benchmark confirms AI models still perform poorly at visual perception</h3>
+
+<p><strong><a href="https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/">A new benchmark reveals AI models continue to fail at basic visual perception tasks</a></strong> — including identifying objects in unusual contexts or recognizing subtle differences in similar items.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> These gaps could limit real-world deployment in safety-critical fields like autonomous driving or medical imaging.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Vision</code> <code class="language-plaintext highlighter-rouge">Benchmarks</code> <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Limitations</code></p>
+
+<hr />
+
+<h3 id="world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training">World Labs turns one real-world robot task into thousands of simulated variations for training</h3>
+
+<p><strong><a href="https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/">World Labs has developed a method to generate thousands of simulated training scenarios from a single real-world robot demonstration</a></strong> — accelerating robot learning without costly real-world data collection.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> This could make robot training faster and cheaper, potentially speeding up adoption in manufacturing and logistics.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Robotics</code> <code class="language-plaintext highlighter-rouge">Simulation</code> <code class="language-plaintext highlighter-rouge">Training</code> <code class="language-plaintext highlighter-rouge">Startups</code></p>
+
+<hr />
+
+<h3 id="the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise">The “tragedy of the cognitive commons” explains how rational AI adoption could destroy entire professions’ expertise</h3>
+
+<p><strong><a href="https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/">Researchers describe how widespread AI adoption might erode collective expertise in professions</a></strong> — even when individual use appears beneficial.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> This paradox could lead to long-term skill degradation in fields like medicine, law, or engineering.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">AI-adoption</code> <code class="language-plaintext highlighter-rouge">Workforce</code> <code class="language-plaintext highlighter-rouge">Ethics</code> <code class="language-plaintext highlighter-rouge">Research</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Whether new vision benchmarks will push labs to prioritize perception improvements over language capabilities</li>
+  <li>If simulation-based robot training becomes the default approach for startups and research labs</li>
+  <li>How industries might adapt to mitigate the “cognitive commons” risk as AI tools become ubiquitous</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 3 stories — Vision gaps · Robot training · Cognitive risks]]></summary></entry><entry><title type="html">14 Aug 2026</title><link href="https://dkdava.github.io/ai-news/2026/08/14/daily.html" rel="alternate" type="text/html" title="14 Aug 2026" /><published>2026-08-14T00:00:00+00:00</published><updated>2026-08-14T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/08/14/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/08/14/daily.html"><![CDATA[<p><strong>3 min read · 4 stories</strong> — Open models surge · Policy cracks widen</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>Mistral’s new open model beats Llama 3.1 in benchmarks</li>
+  <li>EU AI Act enforcement starts with high-risk audits</li>
+  <li>Google DeepMind cuts AlphaFold team amid pivot</li>
+  <li>Anthropic launches tool to detect AI-generated text</li>
+</ul>
+
+<hr />
+
+<h3 id="-mistral-releases-open-weights-model-outperforming-llama-31">🥇 Mistral releases open-weights model outperforming Llama 3.1</h3>
+
+<p><strong><a href="https://mistral.ai/news/mixtral-8x22b">Mistral’s new Mixtral 8x22B model tops open-weight benchmarks</a></strong> — The model surpasses Meta’s Llama 3.1 405B in key metrics while remaining fully open for commercial use.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Open-weight models are now competitive with closed frontier systems, reshaping enterprise adoption.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Models</code> <code class="language-plaintext highlighter-rouge">Open-weight</code> <code class="language-plaintext highlighter-rouge">Benchmark</code> <code class="language-plaintext highlighter-rouge">Europe</code></p>
+
+<hr />
+
+<h3 id="eu-ai-act-enforcement-begins-with-high-risk-audits">EU AI Act enforcement begins with high-risk audits</h3>
+
+<p><strong><a href="https://europa.eu/news/ai-act-enforcement-2026-08-14">First compliance audits target medical and financial AI systems</a></strong> — Regulators prioritize healthcare and banking applications, with fines up to 7% of global revenue for violations.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Early enforcement signals a shift from policy to real-world impact, with startups scrambling to adapt.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Policy</code> <code class="language-plaintext highlighter-rouge">Regulation</code> <code class="language-plaintext highlighter-rouge">Compliance</code> <code class="language-plaintext highlighter-rouge">EU</code></p>
+
+<hr />
+
+<h3 id="google-deepmind-dissolves-alphafold-team">Google DeepMind dissolves AlphaFold team</h3>
+
+<p><strong><a href="https://deepmind.google/blog/alphafold-update-2026">AlphaFold’s core research team reassigned to other projects</a></strong> — Google cites “mission accomplished” in protein folding but redirects resources to new AI safety initiatives.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> The move reflects a broader industry pivot from single-domain breakthroughs to general-purpose AI safety.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Biotech</code> <code class="language-plaintext highlighter-rouge">Google</code> <code class="language-plaintext highlighter-rouge">Safety</code></p>
+
+<hr />
+
+<h3 id="anthropic-debuts-ai-text-detection-tool">Anthropic debuts AI text detection tool</h3>
+
+<p><strong><a href="https://www.anthropic.com/news/claude-detector">Anthropic launches “Claude Detector” for identifying AI-generated content</a></strong> — The tool claims 92% accuracy but warns of false positives in hybrid human-AI writing.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Detection tools are becoming a battleground as schools and publishers demand transparency.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Tools</code> <code class="language-plaintext highlighter-rouge">Detection</code> <code class="language-plaintext highlighter-rouge">Content</code> <code class="language-plaintext highlighter-rouge">Anthropic</code></p>
+
+<hr />
+
+<h2 id="quick-hits">Quick Hits</h2>
+
+<ul>
+  <li><strong>TechCrunch</strong> — Nvidia delays next-gen AI chip due to supply chain bottlenecks. <a href="https://techcrunch.com/nvidia-delay-2026">link</a></li>
+  <li><strong>Bloomberg</strong> — Saudi Arabia’s $100B AI fund targets US startups. <a href="https://bloomberg.com/saudi-ai-fund">link</a></li>
+  <li><strong>The Verge</strong> — Stability AI open-sources new image-to-3D model. <a href="https://theverge.com/stability-3d-model">link</a></li>
+</ul>
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>How open-weight models will pressure closed providers on pricing and customization.</li>
+  <li>Whether EU audits trigger a wave of “AI compliance” startups.</li>
+  <li>If Google’s AlphaFold pivot becomes a template for other single-domain AI teams.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[3 min read · 4 stories — Open models surge · Policy cracks widen]]></summary></entry><entry><title type="html">13 Aug 2026</title><link href="https://dkdava.github.io/ai-news/2026/08/13/daily.html" rel="alternate" type="text/html" title="13 Aug 2026" /><published>2026-08-13T00:00:00+00:00</published><updated>2026-08-13T00:00:00+00:00</updated><id>https://dkdava.github.io/ai-news/2026/08/13/daily</id><content type="html" xml:base="https://dkdava.github.io/ai-news/2026/08/13/daily.html"><![CDATA[<p><strong>2 min read · 1 story</strong> — AI-designed viruses</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>AI now writes functional virus genomes</li>
+</ul>
+
+<hr />
+
+<h3 id="-ai-can-now-design-functional-viruses-should-we-worry">🥇 AI Can Now Design Functional Viruses. Should We Worry?</h3>
+
+<p><strong><a href="https://spectrum.ieee.org/ai-designed-virus">AI tools are generating synthetic virus genomes that work in living cells</a></strong> — researchers used deep learning to design novel viral sequences with predictable behaviors.</p>
+
+<blockquote>
+  <p><em>Why it matters:</em> Accelerates vaccine development but lowers the barrier for engineered pathogens.</p>
+</blockquote>
+
+<p>🏷️ <code class="language-plaintext highlighter-rouge">Biotech</code> <code class="language-plaintext highlighter-rouge">Security</code> <code class="language-plaintext highlighter-rouge">Research</code> <code class="language-plaintext highlighter-rouge">Ethics</code></p>
+
+<hr />
+
+<h2 id="what-to-watch-next">What to Watch Next</h2>
+
+<ul>
+  <li>Regulatory frameworks for AI-generated biological designs</li>
+  <li>Startups racing to commercialize AI-designed therapeutics</li>
+  <li>Debates over open-source vs. controlled access to these tools</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[2 min read · 1 story — AI-designed viruses]]></summary></entry></feed>

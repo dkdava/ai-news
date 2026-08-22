@@ -1,0 +1,248 @@
+/* === Inter font for article-shell look === */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* === Article shell (card) === */
+.post {
+  background: #ffffff;
+  border: 1px solid #e4e4e7;
+  border-radius: 24px;
+  padding: 36px 40px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.06);
+  margin: 32px auto;
+  max-width: 760px;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  color: #151515;
+  line-height: 1.55;
+  counter-reset: story;
+}
+
+/* === Date heading (post-title) === */
+.post-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 0 8px;
+  letter-spacing: -0.02em;
+  color: #151515;
+}
+
+/* Hide redundant post-meta time (title already shows date) */
+.post-header .post-meta {
+  display: none;
+}
+
+/* === Post content base === */
+.post-content {
+  margin: 0;
+  font-size: 16px;
+}
+
+/* === Meta line (first paragraph after title) === */
+.post-content > p:first-of-type {
+  color: #666;
+  font-size: 15px;
+  margin: 0 0 26px;
+}
+
+.post-content > p:first-of-type strong {
+  color: #151515;
+  font-weight: 700;
+}
+
+/* === TL;DR section (h2#tldr + ul) === */
+.post-content h2 {
+  font-size: 30px;
+  line-height: 1.1;
+  letter-spacing: -0.04em;
+  margin: 0 0 16px;
+  font-weight: 800;
+}
+
+.post-content h2#tldr {
+  background: #f6f7f9;
+  border-radius: 18px 18px 0 0;
+  padding: 20px 22px 8px;
+  margin: 0;
+}
+
+.post-content h2#tldr + ul {
+  background: #f6f7f9;
+  border-radius: 0 0 18px 18px;
+  padding: 0 22px 20px 44px;
+  margin: 0 0 34px;
+  list-style: disc;
+}
+
+.post-content h2#tldr + ul li {
+  font-size: 16px;
+  margin: 6px 0;
+  color: #262626;
+}
+
+/* === Section separators (hr) === */
+.post-content hr {
+  border: 0;
+  border-top: 1px solid #e4e4e7;
+  margin: 28px 0 0;
+  padding: 0;
+  height: 0;
+}
+
+.post-content h2 {
+  font-size: 30px;
+  line-height: 1.1;
+  letter-spacing: -0.04em;
+  margin: 0 0 16px;
+  font-weight: 800;
+  padding-top: 38px;
+}
+/* === Story headings (h3) with numbered badge + kicker === */
+.post-content h3 {
+  line-height: 1.1;
+  letter-spacing: -0.045em;
+  font-weight: 600;
+  margin: 28px 0 18px;
+  max-width: 680px;
+  position: relative;
+  padding-top: 38px;
+  counter-increment: story;
+  color: #151515;
+}
+
+.post-content h3::before {
+  content: counter(story);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  border-radius: 999px;
+  background: #fff2c7;
+  color: #8a5a00;
+  font-size: 13px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: inherit;
+}
+
+.post-content h3::after {
+  content: "TOP STORY";
+  position: absolute;
+  top: 4px;
+  left: 34px;
+  color: #8a8a8a;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+/* === Lead paragraph (first p after h3) === */
+.post-content h3 + p {
+  font-size: 17px;
+  margin: 0 0 22px;
+  color: #262626;
+  line-height: 1.55;
+}
+
+.post-content h3 + p strong a,
+.post-content h3 + p a strong {
+  color: #1557b0;
+  font-weight: 800;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+/* === Why it matters (blockquote) === */
+.post-content blockquote {
+  background: #f8f8f8;
+  border-left: 4px solid #d6d6d6;
+  padding: 16px 18px;
+  border-radius: 0 14px 14px 0;
+  margin: 22px 0;
+  color: #555;
+  font-size: 16px;
+  font-style: normal;
+}
+
+.post-content blockquote p {
+  margin: 0;
+}
+
+.post-content blockquote em {
+  font-style: normal;
+  font-weight: 700;
+  color: #333;
+}
+
+/* === Tags (inline code in tag paragraph) === */
+.post-content p code {
+  background: #ececf7;
+  color: #252536;
+  border-radius: 999px;
+  padding: 5px 11px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  font-family: inherit;
+  display: inline-block;
+  margin: 4px 4px 0 0;
+  border: none;
+}
+
+/* === Mobile === */
+@media (max-width: 640px) {
+  .post {
+    padding: 24px 20px;
+    border-radius: 18px;
+    margin: 16px auto;
+  }
+
+  .post-content h2 {
+    font-size: 26px;
+  }
+
+  .post-content h3 {
+    font-size: 24px;
+  }
+
+  .post-content h3 + p {
+    font-size: 16px;
+  }
+}
+
+/* Only affect header, NOT all wrappers */
+.header-flex {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+/* Push search to right */
+.search-box {
+  margin-left: auto;
+}
+
+/* Input styling */
+.search-box input {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  width: 220px;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .search-box {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .search-box input {
+    width: 100%;
+  }
+}
